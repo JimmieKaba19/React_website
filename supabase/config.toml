@@ -1,0 +1,7 @@
+project_id = "nddzpkcyjhrqaugelgay"
+
+[functions.send-contact-notification]
+verify_jwt = false
+
+[functions.wordpress-proxy]
+verify_jwt = false
