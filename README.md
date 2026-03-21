@@ -1,7 +1,7 @@
 # Enterprise Tech & Cybersecurity website (Sample)
 A Professional Portfolio Project demonstrating a high-performance, responsive corporate website.
 
-![Tandem Technologies](public/images/tandem-logo.png)
+![Tandem Technologies](public/images/stock/cybersecurity-hero.jpg)
 
 **Enterprise Cybersecurity & IT Solutions**
 
