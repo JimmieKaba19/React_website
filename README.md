@@ -1,25 +1,25 @@
-# Tandem Technologies Limited
+# Enterprise Tech & Cybersecurity website (Sample)
+A Professional Portfolio Project demonstrating a high-performance, responsive corporate website.
 
 ![Tandem Technologies](public/images/tandem-logo.png)
 
 **Enterprise Cybersecurity & IT Solutions**
 
-This is the official website for Tandem Technologies Limited, a leading provider of enterprise cybersecurity, managed IT services, and digital transformation solutions across East Africa.
+This project is a functional sample of an Enterprise-grade IT Solutions website. It was built to showcase how modern web technologies can be used to create a secure, fast, and visually appealing presence for companies in the Cybersecurity, Managed IT, and Digital Transformation sectors.
 
-## About Tandem Technologies
+## Technical features
 
-Tandem Technologies Limited delivers comprehensive IT security and infrastructure solutions to enterprises, government agencies, and organizations across the region. Our expertise spans:
+- **Responsive architecture** - Fully optimized for mobile, tablet, and desktop viewing.
+- **Performance optimized** - Infrastructure management, cloud services, and IT support
+- **Interactive ui components** - Custom-built navigation, service cards, and lead-generation sections.
+- **Modular design** - Built with a structure that allows for easy scaling and future migration to frameworks like React.
+- **Incorporation on D3 maps and AI chatbot**
 
-- **Cybersecurity Solutions** - Endpoint protection, threat detection, and security operations
-- **Managed IT Services** - Infrastructure management, cloud services, and IT support
-- **Digital Transformation** - Business process automation and technology consulting
-- **Compliance & Risk Management** - Regulatory compliance and risk assessment
-
-## Contact
-
-- **Email:** letstalk@tandem.co.ke
-- **Phone:** +254 734 258 175 | +254 020 760 2010
-- **Address:** 8th Floor, View Park Towers, P.O. Box 56119-00200 Nairobi, Kenya
+## Industry use-cases covered
+- Cybersecurity Operations (Threat detection, Endpoint protection)
+- Cloud & Managed Infrastructure (IT Support, Cloud migration)
+- Digital Transformation (Process automation, Consulting)
+- Compliance & Risk (Data protection, Regulatory frameworks)
 
 ## Technology Stack
 
@@ -47,7 +47,7 @@ npm run build
 
 ## License
 
-© 2024 Tandem Technologies Limited. All rights reserved.
+© 2024 kaba wambugu. All rights reserved.
 
 ---
 
